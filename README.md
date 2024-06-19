@@ -1,2 +1,2 @@
-# Predi-o-de-Investimentos
+# Predição-de-Investimentos
 Case de Predição de Investimento Utilizando Regressão Linear
